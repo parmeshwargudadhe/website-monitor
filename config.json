@@ -1,0 +1,6 @@
+{
+    "check_interval": 60,
+    "email_from": "sender@gmail.com",
+    "email_to": "receiver@mail.com",
+    "email_password": "here app password"
+}
